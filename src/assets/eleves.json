@@ -1,0 +1,25 @@
+{
+	"eleves":
+	[
+		{
+			"id":1,
+			"prenom" : "Romuald",
+			"classe" : "master1"
+		},
+		{
+			"id":2,
+			"prenom" : "Quentin",
+			"classe" : "master1"
+		},
+		{
+			"id":3,
+			"prenom" : "Marco",
+			"classe" : "master1"
+		},
+		{
+			"id":4,
+			"prenom" : "Chedy",
+			"classe" : "master1"
+		}
+	]
+}
